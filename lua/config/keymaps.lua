@@ -22,3 +22,4 @@ map(
 )
 
 map("n", "-", "<cmd>Oil<cr>", { desc = "Open parent directory" })
+map("n", "<leader>fC", "<cmd>e ~/.config/nvim/cheatsheet.md<cr>", { desc = "Open Cheatsheet", remap = true })
