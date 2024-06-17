@@ -1,6 +1,6 @@
 return {
   {
     "bufferline.nvim",
-    enabled = false,
+    enabled = true,
   },
 }
