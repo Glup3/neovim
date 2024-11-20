@@ -20,7 +20,7 @@ return {
         ["markdown.mdx"] = { "prettierd" },
         ["graphql"] = { "prettierd" },
         ["handlebars"] = { "prettierd" },
-        ["php"] = { "php-cs-fixer" },
+        ["php"] = { "pint", "php-cs-fixer" },
       },
       formatters = {
         ["php-cs-fixer"] = {

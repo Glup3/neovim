@@ -26,7 +26,8 @@ return {
     {
       "LazyVim/LazyVim",
       opts = {
-        colorscheme = "ayu-dark",
+        colorscheme = "tokyonight",
+        -- colorscheme = "ayu-dark",
         -- colorscheme = "kanagawa",
         overrides = {},
       },
